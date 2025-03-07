@@ -1,4 +1,4 @@
-# Spiral Matrix in C#
+# Spiral Matrix in Java
 
 ## Student Information
 
@@ -7,14 +7,14 @@
 
 ## Project Description
 
-This project implements a **Spiral Matrix** generator in C#. The program takes an integer `n` as input and generates an `n x n` matrix filled with numbers in a spiral order.
+This project implements a **Spiral Matrix** generator in Java. The program takes an integer `n` as input and generates an `n x n` matrix filled with numbers in a spiral order.
 
 ## How to Run
 
 ### Prerequisites
 
-- .NET SDK (for compiling and running C# programs)
-- A C# compiler (e.g., Visual Studio, Visual Studio Code, or CLI tools)
+- Java Development Kit (JDK)
+- A Java compiler (e.g., IntelliJ IDEA, Eclipse, or CLI tools)
 
 ### Steps to Run
 
@@ -28,11 +28,11 @@ This project implements a **Spiral Matrix** generator in C#. The program takes a
    ```
 3. Compile the program:
    ```sh
-   csc SpiralMatrix.cs
+   javac SpiralPattern.java
    ```
-4. Run the executable:
+4. Run the compiled program:
    ```sh
-   SpiralMatrix.exe
+   java SpiralPattern
    ```
 5. Enter the size of the matrix when prompted.
 
@@ -53,9 +53,9 @@ This project implements a **Spiral Matrix** generator in C#. The program takes a
 
 ```
 Enter the size of the matrix: 5
- 1   2   3   4   5
-16  17  18  19   6
-15  24  25  20   7
-14  23  22  21   8
-13  12  11  10   9
+   1   2   3   4   5
+  16  17  18  19   6
+  15  24  25  20   7
+  14  23  22  21   8
+  13  12  11  10   9
 ```
