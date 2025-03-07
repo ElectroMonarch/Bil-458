@@ -1,3 +1,10 @@
+/*
+
+        Yağız Akın BAŞTOPÇU
+            22393532
+
+*/
+
 using System;
 
 class SpiralMatrix
